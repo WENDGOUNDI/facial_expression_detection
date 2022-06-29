@@ -28,4 +28,5 @@ For this training, little VGG-16 has been used. We can observe that the training
 
 **Notes:**
 
-For improvement, train the network for longer epochs, apply different deep leraning techniques to improve the accuracy and try different face detector model during the inference.
+- For improvement, train the network for longer epochs, apply different deep leraning techniques to improve the accuracy and try different face detector model during the inference.
+- To run the python format for the inference file, it is advisable to make some adjustment. The file contains inference for image and video for both face detector models. Seperate them and run one at a time.
