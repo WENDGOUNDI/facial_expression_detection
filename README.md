@@ -28,4 +28,4 @@ For this training, little VGG-16 has been used. We can observe that the training
 
 **Notes:**
 
-For imporvement, train the network for longer epochs, apply different deep leraning techniques to improve the accuracy and try different face detector model during the inference.
+For improvement, train the network for longer epochs, apply different deep leraning techniques to improve the accuracy and try different face detector model during the inference.
